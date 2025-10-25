@@ -1,0 +1,20 @@
+# Rust
+debug/
+target/
+/target/
+Cargo.lock
+**/*.rs.bk
+**/*.rlib
+**/*.d
+**/*.o
+**/*.rmeta
+*.pdb
+
+# Editor/OS specific files
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+Thumbs.db
